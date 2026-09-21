@@ -8,3 +8,9 @@ print("Database connected!")
 # Close the connection so the file is safely released.
 connection.close()
 print("Database closed!")
+
+connection = sqlite3.connect("library.db")
+print("Database connected!")
+# Close the connection so the file is safely released.
+connection.close()
+print("Database closed!")

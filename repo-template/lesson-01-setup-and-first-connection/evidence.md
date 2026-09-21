@@ -10,11 +10,11 @@
 - Terminal output pasted below:
 
 ## What I changed from the starter example
-- 
+-I added the connection for library db.
 
 ## Error and fix
-- Error I hit:
-- How I fixed it:
+- Error I hit: I didn't hit one.
+- How I fixed it: Nothing needed fixing.
 
 ## Understanding check (answer in your own words)
 1. What is the difference between Python and SQLite?
@@ -25,7 +25,7 @@
 -Connects to a file or creates it if it doesn't exist.
 
 ## Quality checklist
-- [ ] Script runs without unhandled errors
-- [ ] I included at least 2 lesson commits
-- [ ] I included terminal evidence
-- [ ] I answered all questions in my own words
+- [y] Script runs without unhandled errors
+- [y] I included at least 2 lesson commits
+- [y] I included terminal evidence
+- [y] I answered all questions in my own words
