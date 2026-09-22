@@ -2,7 +2,7 @@
 
 ## Commit evidence (minimum 2)
 - Commit 1 hash + message: 01ff1eea02b29f7f41b521cca8feb20accd261ca Added code and did questions.
-- Commit 2 hash + message:
+- Commit 2 hash + message: fe64f056597b2ef01426957ecd412f2d9fc4950f Finished lesson 1.
 - Optional Commit 3 hash + message:
 
 ## Run evidence

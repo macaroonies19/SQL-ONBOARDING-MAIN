@@ -9,6 +9,7 @@ print("Database connected!")
 connection.close()
 print("Database closed!")
 
+print("It is looking for library.db and it will create it if it doesn't already exist.")
 connection = sqlite3.connect("library.db")
 print("Database connected!")
 # Close the connection so the file is safely released.
